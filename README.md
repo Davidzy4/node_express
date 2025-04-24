@@ -1,1 +1,1 @@
-# This is a repo cr8d to test out test node.js API.
+# This repo was cr8d to test node.js API using express.js.
